@@ -25,7 +25,7 @@ This application provides an intuitive interface for users to derive business in
 ---
 
 ## Requirements
-- The project uses MySQL Demo Database for Analysis: [MySQL classicmodels dataset] (https://www.mysqltutorial.org/mysql-sample-database.aspx) 
+- The project uses MySQL Demo Database for Analysis: [MySQL classicmodels dataset] (https://www.mysqltutorial.org/mysql-sample-database.aspx) . A sample database was set up in Google Cloud using the example credentials provided.
 - OpenAI API Key is required for the use of the LLM in this prototype: [How to get OpenAI API Key] (https://www.howtogeek.com/885918/how-to-get-an-openai-api-key/)
 
 ### System Requirements
