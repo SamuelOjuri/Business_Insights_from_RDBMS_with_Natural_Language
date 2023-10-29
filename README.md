@@ -7,7 +7,6 @@
 3. [Installation](#installation)
 4. [Usage](#usage)
 5. [Code Structure](#code-structure)
-6. [License](#license)
 
 ---
 
