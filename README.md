@@ -1,5 +1,5 @@
 
-## KaggleX-Final-Project: Deriving Business Insights from Relational Database Management Systems with Natural Language
+## Deriving Business Insights from Relational Database Management Systems with Natural Language
 
 ## Table of Contents
 1. [Introduction](#introduction)
